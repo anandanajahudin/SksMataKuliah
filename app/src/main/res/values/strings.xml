@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SksMataKuliah</string>
+    <string name="ipkResult">"IPK: %.2f"</string>
+    <string name="totalSksResult">"Total SKS: %d"</string>
+</resources>
